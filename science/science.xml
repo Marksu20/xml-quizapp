@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+  <question>
+    <text>Who was the first person to actually land on the moon?</text>
+    <options>
+      <option>Mark</option>
+      <option>Charmaine</option>
+      <option>Nathan</option>
+      <option>Neil Armstrong</option>
+    </options>
+    <answer>3</answer>
+  </question>
+  <question>
+    <text>Something that occupy space and has mass.</text>
+    <options>
+      <option>Matter</option>
+      <option>Water</option>
+      <option>Charger</option>
+      <option>Ice Cream Truck</option>
+    </options>
+    <answer>0</answer>
+  </question>
+  <question>
+    <text>Who is the Father of Science?</text>
+    <options>
+      <option>Galileo Galilei</option>
+      <option>Duterte</option>
+      <option>BongBong</option>
+      <option>Ronald Bato</option>
+    </options>
+    <answer>0</answer>
+  </question>
+   <question>
+    <text>What freezes faster?</text>
+    <options>
+      <option>Hot Water</option>
+      <option>Ice</option>
+      <option>Warm Water</option>
+      <option>Cold Water</option>
+    </options>
+    <answer>0</answer>
+  </question>
+  <question>
+    <text>It is necesssary for the body's maintenance, growth, and repair</text>
+    <options>
+      <option>Shabu</option>
+      <option>Carbohydrates</option>
+      <option>Proteins</option>
+      <option>Fats</option>
+    </options>
+    <answer>0</answer>
+  </question>
+</questions>
