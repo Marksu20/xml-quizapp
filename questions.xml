@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <questions>
   <question>
-    <text>What is the capital of France?</text>
+    <text>How many days are there in a week?</text>
     <options>
-      <option>Berlin</option>
-      <option>Madrid</option>
-      <option>Paris</option>
-      <option>Lisbon</option>
+      <option>10 days</option>
+      <option>25 days</option>
+      <option>7 days</option>
+      <option>100 days</option>
     </options>
     <answer>2</answer>
   </question>
   <question>
-    <text>Which planet is known as the Red Planet?</text>
+    <text>What element does the chemical symbol Au stand for?</text>
     <options>
-      <option>Earth</option>
-      <option>Mars</option>
-      <option>Jupiter</option>
-      <option>Saturn</option>
+      <option>Silver</option>
+      <option>Copper</option>
+      <option>Oxygen</option>
+      <option>Gold</option>
     </options>
-    <answer>1</answer>
+    <answer>3</answer>
   </question>
   <question>
     <text>What is the largest ocean on Earth?</text>
@@ -29,5 +29,25 @@
       <option>Pacific Ocean</option>
     </options>
     <answer>3</answer>
+  </question>
+  <question>
+    <text>What is the smallest planet in our solar system?</text>
+    <options>
+      <option>Jupiter</option>
+      <option>Mercury</option>
+      <option>Earth</option>
+      <option>Pluto</option>
+    </options>
+    <answer>1</answer>
+  </question>
+  <question>
+    <text>What is the deadliest mammal?</text>
+    <options>
+      <option>Lion</option>
+      <option>Hippo</option>
+      <option>Horse</option>
+      <option>Monkey</option>
+    </options>
+    <answer>1</answer>
   </question>
 </questions>
